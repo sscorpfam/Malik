@@ -1,15 +1,29 @@
 {
-    "kategori": "Kitab Mudabbar",
+  "kategori": "Kitab Mudabbar",
   "hadits": [
     {
-"number": 1286,
-"arab": "حَدَّثَنِي مَالِك عَنْ نَافِعٍ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَدَبَّرَ جَارِيَتَيْنِ لَهُ فَكَانَ يَطَؤُهُمَا وَهُمَا مُدَبَّرَتَانِ",
-"id": "Telah menceritakan kepadaku Malik dari [Nafi'] bahwa [Abdullah bin Umar] berjanji akan memerdekakan dua orang budak perempuan jika dia meninggal dunia, dan ia tetap menggaulinya meskipun setatus budak tersebut mudabbarah. "
-},
-{
-"number": 1287,
-"arab": "و حَدَّثَنِي مَالِك عَنْ يَحْيَى بْنِ سَعِيدٍ أَنَّ سَعِيدَ بْنَ الْمُسَيَّبِ كَانَ يَقُولُإِذَا دَبَّرَ الرَّجُلُ جَارِيَتَهُ فَإِنَّ لَهُ أَنْ يَطَأَهَا وَلَيْسَ لَهُ أَنْ يَبِيعَهَا وَلَا يَهَبَهَا وَوَلَدُهَا بِمَنْزِلَتِهَا",
-"id": "Telah menceritakan kepadaku Malik dari [Yahya bin Sa'id] bahwa [Sa'id bin Musayyab] berkata; \"Jika seorang tuan menjanjikan merdeka kepada budak wanitanya selepas kematiannya, maka dia boleh menggaulinya namun dia tidak boleh menjualnya atau menghadiahkannya (kepada orang lain) . Dan anak (budak) tersebut sama kedudukannya dengan ibunya.\""
-}
+      "number": 1286,
+      "arab": "حَدَّثَنِي مَالِك عَنْ نَافِعٍ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَدَبَّرَ جَارِيَتَيْنِ لَهُ فَكَانَ يَطَؤُهُمَا وَهُمَا مُدَبَّرَتَانِ",
+      "id": "Telah menceritakan kepadaku Malik dari [Nafi'] bahwa [Abdullah bin Umar] berjanji akan memerdekakan dua orang budak perempuan jika dia meninggal dunia, dan ia tetap menggaulinya meskipun setatus budak tersebut mudabbarah. ",
+      "en": "Malik narrated to me from [Nafi'] that [Abdullah bin Umar] promised to free two female slaves if he died, and he continued to have intercourse with them even though the status of those slaves was mudabbarah.",
+      "ja": "マーリクが私に語ってくれた、[Nafi']からの伝承によると、[Abdullah bin Umar]は自分が亡くなった場合に二人の女奴隷を解放すると約束し、その奴隷たちの身分がムダッバラであっても、彼は引き続き彼女たちと交わった。",
+      "ko": "말리크가 [Nafi']로부터 나에게 전해준 바에 따르면, [Abdullah bin Umar]는 자신이 사망하면 두 명의 여종을 해방하겠다고 약속했고, 그 종들의 신분이 무답바라임에도 불구하고 그들과 계속 동침했다.",
+      "zh": "马立克通过[Nafi']向我讲述：[Abdullah bin Umar]曾许诺，如果他去世，就释放两名女奴，尽管这些奴隶的身份是穆达巴拉，他仍继续与她们同房。",
+      "fr": "Malik m'a raconté d'après [Nafi'] que [Abdullah bin Umar] avait promis d'affranchir deux esclaves femmes s'il venait à mourir, et qu'il continuait d'avoir des rapports avec elles bien que le statut de ces esclaves fût celui de mudabbarah.",
+      "de": "Malik hat mir von [Nafi'] erzählt, dass [Abdullah bin Umar] versprochen hatte, zwei Sklavinnen freizulassen, falls er sterben sollte, und dass er weiterhin mit ihnen verkehrte, obwohl der Status dieser Sklavinnen mudabbarah war.",
+      "it": "Malik mi ha raccontato da [Nafi'] che [Abdullah bin Umar] aveva promesso di liberare due schiave se fosse morto, e che continuava ad avere rapporti con loro sebbene lo status di quelle schiave fosse di mudabbarah."
+    },
+    {
+      "number": 1287,
+      "arab": "و حَدَّثَنِي مَالِك عَنْ يَحْيَى بْنِ سَعِيدٍ أَنَّ سَعِيدَ بْنَ الْمُسَيَّبِ كَانَ يَقُولُإِذَا دَبَّرَ الرَّجُلُ جَارِيَتَهُ فَإِنَّ لَهُ أَنْ يَطَأَهَا وَلَيْسَ لَهُ أَنْ يَبِيعَهَا وَلَا يَهَبَهَا وَوَلَدُهَا بِمَنْزِلَتِهَا",
+      "id": "Telah menceritakan kepadaku Malik dari [Yahya bin Sa'id] bahwa [Sa'id bin Musayyab] berkata; \"Jika seorang tuan menjanjikan merdeka kepada budak wanitanya selepas kematiannya, maka dia boleh menggaulinya namun dia tidak boleh menjualnya atau menghadiahkannya (kepada orang lain) . Dan anak (budak) tersebut sama kedudukannya dengan ibunya.\"",
+      "en": "Malik narrated to me from [Yahya bin Sa'id] that [Sa'id bin Musayyab] said; \"If a master promises freedom to his female slave after his death, then he may have intercourse with her, but he may not sell her or give her away (to someone else). And the child (of the slave) has the same status as its mother.\"",
+      "ja": "マーリクが私に語ってくれた、[Yahya bin Sa'id]からの伝承によると、[Sa'id bin Musayyab]は言った。「主人が自分の女奴隷に死後の解放を約束した場合、彼は彼女と交わることができるが、彼女を売ったり（他の人に）贈ったりしてはならない。そして（その奴隷の）子は母親と同じ地位である。」",
+      "ko": "말리크가 [Yahya bin Sa'id]로부터 나에게 전해준 바에 따르면, [Sa'id bin Musayyab]는 이렇게 말했다. \"주인이 자신의 여종에게 사후에 자유를 약속했다면, 그는 그녀와 동침할 수 있지만, 그녀를 팔거나 (다른 사람에게) 선물할 수는 없다. 그리고 (그 종의) 아이는 어머니와 같은 지위를 가진다.\"",
+      "zh": "马立克通过[Yahya bin Sa'id]向我讲述：[Sa'id bin Musayyab]说：“如果主人许诺在自己死后给女奴自由，那么他可以与她同房，但不得出售她或将她赠予（他人）。而（该奴隶的）孩子与母亲地位相同。”",
+      "fr": "Malik m'a raconté d'après [Yahya bin Sa'id] que [Sa'id bin Musayyab] a dit ; « Si un maître promet la liberté à son esclave femme après sa mort, il peut avoir des rapports avec elle, mais il ne peut pas la vendre ni la donner (à quelqu'un d'autre). Et l'enfant (de l'esclave) a le même statut que sa mère. »",
+      "de": "Malik hat mir von [Yahya bin Sa'id] erzählt, dass [Sa'id bin Musayyab] sagte: „Wenn ein Herr seiner Sklavin die Freiheit nach seinem Tod verspricht, dann darf er mit ihr verkehren, aber er darf sie nicht verkaufen oder (an jemand anderen) verschenken. Und das Kind (der Sklavin) hat denselben Status wie seine Mutter.“",
+      "it": "Malik mi ha raccontato da [Yahya bin Sa'id] che [Sa'id bin Musayyab] disse: \"Se un padrone promette la libertà alla sua schiava dopo la sua morte, allora può avere rapporti con lei, ma non può venderla né regalarla (a qualcun altro). E il figlio (della schiava) ha lo stesso status di sua madre.\""
+    }
   ]
 }
