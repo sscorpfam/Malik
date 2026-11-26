@@ -1,35 +1,77 @@
 {
-    "kategori": "Kitab Aqiqah",
+  "kategori": "Kitab Aqiqah",
   "hadits": [
     {
-"number": 945,
-"arab": "حَدَّثَنِي يَحْيَى عَنْ مَالِك عَنْ زَيْدِ بْنِ أَسْلَمَ عَنْ رَجُلٍ مِنْ بَنِي ضَمْرَةَ عَنْ أَبِيهِ أَنَّهُ قَالَسُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الْعَقِيقَةِ فَقَالَ لَا أُحِبُّ الْعُقُوقَ وَكَأَنَّهُ إِنَّمَا كَرِهَ الْاسْمَ وَقَالَ مَنْ وُلِدَ لَهُ وَلَدٌ فَأَحَبَّ أَنْ يَنْسُكَ عَنْ وَلَدِهِ فَلْيَفْعَلْ",
-"id": "Telah menceritakan kepadaku Yahya dari Malik dari [Zaid bin Aslam] dari [seseorang dari Bani Dlamrah] dari [Bapaknya] ia berkata; \"Rasulullah Shalla Allahu 'alaihi wa sallam pernah ditanya tentang hukum aqiqah. Beliau menjawab; 'Saya tidak suka aqiqah (seakan-akan beliau membenci penamaan tersebut) .'\" Beliau bersabda: \"Barangsiapa dikaruniai seorang anak, lantas dia berkeinginan untuk menyembelih kambing untuk anaknya maka laksanakanlah.\""
-},
-{
-"number": 946,
-"arab": "و حَدَّثَنِي عَنْ مَالِك عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ عَنْ أَبِيهِ أَنَّهُ قَالَوَزَنَتْ فَاطِمَةُ بِنْتُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ شَعَرَ حَسَنٍ وَحُسَيْنٍ وَزَيْنَبَ وَأُمِّ كُلْثُومٍ فَتَصَدَّقَتْ بِزِنَةِ ذَلِكَ فِضَّةً",
-"id": "Telah menceritakan kepadaku dari Malik dari [Ja'far bin Muhammad] dari [Bapaknya] ia berkata; \" [Fatimah] puteri Rasulullah Shalla Allahu 'alaihi wa sallam pernah menimbang rambut Hasan, Husain, Zainab dan Ummu Kultsum, lalu mensedekahkan perak yang sama dengan berat timbangan rambut tersebut.\""
-},
-{
-"number": 947,
-"arab": "و حَدَّثَنِي عَنْ مَالِك عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ عَنْ مُحَمَّدِ بْنِ عَلِيِّ بْنِ الْحُسَيْنِ أَنَّهُ قَالَوَزَنَتْ فَاطِمَةُ بِنْتُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ شَعَرَ حَسَنٍ وَحُسَيْنٍ فَتَصَدَّقَتْ بِزِنَتِهِ فِضَّةً",
-"id": "Telah menceritakan kepadaku dari Malik dari [Rabi'ah bin Abu Abdurrahman] dari [Muhammad bin Ali bin Al Husain] berkata; \" [Fatimah] puteri Rasulullah Shalla Allahu 'alaihi wa sallam menimbang rambut Hasan dan Husain, lalu ia bersedekah perak yang sama dengan berat timbangan rambut tersebut.\""
-},
-{
-"number": 948,
-"arab": "حَدَّثَنِي يَحْيَى عَنْ مَالِك عَنْ نَافِعٍ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَلَمْ يَكُنْ يَسْأَلُهُ أَحَدٌ مِنْ أَهْلِهِ عَقِيقَةً إِلَّا أَعْطَاهُ إِيَّاهَا وَكَانَ يَعُقُّ عَنْ وَلَدِهِ بِشَاةٍ شَاةٍ عَنْ الذُّكُورِ وَالْإِنَاثِ",
-"id": "Telah menceritakan kepadaku Yahya dari Malik dari [Nafi'] berkata, \"Tidak seorang pun dari keluarga Abdullah bin Umar meminta kambing untuk dijadikan aqiqah kecuali ia memberikannya. [Ibnu Umar] beraqiqah untuk anak-anaknya dengan seekor kambing; baik untuk anak laki-laki maupun anak perempuan."
-},
-{
-"number": 949,
-"arab": "و حَدَّثَنِي عَنْ مَالِك عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ التَّيْمِيِّ أَنَّهُ قَالَ سَمِعْتُ أَبِييَسْتَحِبُّ الْعَقِيقَةَ وَلَوْ بِعُصْفُورٍ",
-"id": "Telah menceritakan kepadaku dari Malik dari [Rabi'ah bin Abu Abdurrahman] dari [Muhammad bin Ibrahim bin Al Harits At-Taimi] berkata; \"Aku mendengar [Bapakku] menganjurkan aqiqah walaupun dengan seekor burung.\""
-},
-{
-"number": 950,
-"arab": "و حَدَّثَنِي عَنْ مَالِك عَنْ هِشَامِ بْنِ عُرْوَةَ أَنَّ أَبَاهُ عُرْوَةَ بْنَ الزُّبَيْرِكَانَ يَعُقُّ عَنْ بَنِيهِ الذُّكُورِ وَالْإِنَاثِ بِشَاةٍ شَاةٍ",
-"id": "Telah menceritakan kepada kami dari Malik dari [Hisyam bin Urwah] bahwa bapaknya [Urwah bin Zubair] mengaqiqahi anak laki-laki dan perempuannya masing-masing dengan seekor kambing.\""
-}
+      "number": 945,
+      "arab": "حَدَّثَنِي يَحْيَى عَنْ مَالِك عَنْ زَيْدِ بْنِ أَسْلَمَ عَنْ رَجُلٍ مِنْ بَنِي ضَمْرَةَ عَنْ أَبِيهِ أَنَّهُ قَالَسُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الْعَقِيقَةِ فَقَالَ لَا أُحِبُّ الْعُقُوقَ وَكَأَنَّهُ إِنَّمَا كَرِهَ الْاسْمَ وَقَالَ مَنْ وُلِدَ لَهُ وَلَدٌ فَأَحَبَّ أَنْ يَنْسُكَ عَنْ وَلَدِهِ فَلْيَفْعَلْ",
+      "id": "Telah menceritakan kepadaku Yahya dari Malik dari [Zaid bin Aslam] dari [seseorang dari Bani Dlamrah] dari [Bapaknya] ia berkata; \"Rasulullah Shalla Allahu 'alaihi wa sallam pernah ditanya tentang hukum aqiqah. Beliau menjawab; 'Saya tidak suka aqiqah (seakan-akan beliau membenci penamaan tersebut) .'\" Beliau bersabda: \"Barangsiapa dikaruniai seorang anak, lantas dia berkeinginan untuk menyembelih kambing untuk anaknya maka laksanakanlah.\"",
+      "en": "Yahya narrated to me from Malik from [Zaid bin Aslam] from [seseorang dari Bani Dlamrah] from [Bapaknya] who said; \"The Messenger of Allah, may Allah bless him and grant him peace, was asked about the ruling on aqiqah. He answered; 'I do not like aqiqah (as if he disliked that naming).'\" He said: \"Whoever is blessed with a child, then he wishes to slaughter a goat for his child, then let him do so.\"",
+      "ja": "ヤフヤーがマーリクから、[Zaid bin Aslam] から、[seseorang dari Bani Dlamrah] から、[Bapaknya] から私に伝えた。彼は言った。「アッラーの使徒、アッラーが彼に祝福と平安を与えられますようには、アキーカについての法について尋ねられた。彼は答えた。『私はアキーカが好きではない（まるで彼はその名称を嫌っているようであった）。』」彼は言った。「誰かが子を授かり、その子のためにヤギを屠りたいと望むなら、実行しなさい。」",
+      "ko": "야흐야가 말릭으로부터, [Zaid bin Aslam]으로부터, [seseorang dari Bani Dlamrah]로부터, [Bapaknya]로부터 나에게 전했다. 그가 말했다. \"알라의 메신저, 알라께서 그에게 축복과 평화를 주시기를, 께서 아끼까에 대한 법에 대해 질문을 받으셨다. 그분께서 답하셨다. '나는 아끼까를 좋아하지 않는다(마치 그분께서 그 명칭을 싫어하시는 것 같았다).'\" 그분께서 말씀하셨다. \"누구든 아이를 선물로 받고, 그 아이를 위해 염소를 잡고 싶어 한다면, 그렇게 행하라.\"",
+      "zh": "叶海亚从马立克、从[Zaid bin Aslam]、从[seseorang dari Bani Dlamrah]、从[Bapaknya]向我传述，他说：“真主的使者，愿真主赐福他并赐他平安，曾被问及阿齐盖的教法。他回答说：‘我不喜欢阿齐盖（仿佛他讨厌这个名称）。’”他说：“谁蒙赐一个孩子，然后他想为孩子宰一只羊，那就去做吧。”",
+      "fr": "Yahya m'a raconté de Malik, de [Zaid bin Aslam], de [seseorang dari Bani Dlamrah], de [Bapaknya] qui a dit ; « Le Messager d'Allah, qu'Allah le bénisse et lui accorde la paix, a été interrogé sur le statut de l'aqiqah. Il a répondu ; 'Je n'aime pas l'aqiqah (comme s'il détestait cette appellation).' » Il a dit : « Quiconque est gratifié d'un enfant, puis désire égorger une chèvre pour son enfant, qu'il le fasse. »",
+      "de": "Yahya erzählte mir von Malik von [Zaid bin Aslam] von [seseorang dari Bani Dlamrah] von [Bapaknya], der sagte: „Der Gesandte Allahs, Allah segne ihn und schenke ihm Frieden, wurde über das Urteil zur Aqiqah befragt. Er antwortete: ‚Ich mag die Aqiqah nicht (als ob er diese Benennung verabscheute).‘“ Er sagte: „Wem ein Kind geschenkt wird und der dann eine Ziege für sein Kind schlachten möchte, der soll es tun.“",
+      "it": "Yahya mi ha raccontato da Malik da [Zaid bin Aslam] da [seseorang dari Bani Dlamrah] da [Bapaknya] il quale disse: \"Il Messaggero di Allah, che Allah lo benedica e gli conceda la pace, fu interrogato sulla norma dell'aqiqah. Egli rispose: 'Non mi piace l'aqiqah (come se detestasse quella denominazione).'\" Egli disse: \"Chiunque riceva in dono un figlio, e poi desideri macellare una capra per suo figlio, lo faccia.\""
+    },
+    {
+      "number": 946,
+      "arab": "و حَدَّثَنِي عَنْ مَالِك عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ عَنْ أَبِيهِ أَنَّهُ قَالَوَزَنَتْ فَاطِمَةُ بِنْتُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ شَعَرَ حَسَنٍ وَحُسَيْنٍ وَزَيْنَبَ وَأُمِّ كُلْثُومٍ فَتَصَدَّقَتْ بِزِنَةِ ذَلِكَ فِضَّةً",
+      "id": "Telah menceritakan kepadaku dari Malik dari [Ja'far bin Muhammad] dari [Bapaknya] ia berkata; \" [Fatimah] puteri Rasulullah Shalla Allahu 'alaihi wa sallam pernah menimbang rambut Hasan, Husain, Zainab dan Ummu Kultsum, lalu mensedekahkan perak yang sama dengan berat timbangan rambut tersebut.\"",
+      "en": "He narrated to me from Malik from [Ja'far bin Muhammad] from [Bapaknya] who said; \" [Fatimah], daughter of the Messenger of Allah, may Allah bless him and grant him peace, once weighed the hair of Hasan, Husain, Zainab and Ummu Kultsum, then gave silver in charity equal to the weight of that hair.\"",
+      "ja": "彼がマーリクから、[Ja'far bin Muhammad] から、[Bapaknya] から私に伝えた。彼は言った。「アッラーの使徒、アッラーが彼に祝福と平安を与えられますようにの娘である [Fatimah] は、かつてハサン、フサイン、ザイナブ、ウンム・クルスームの髪を量り、その髪の重さに等しい銀を施しとして与えた。」",
+      "ko": "그가 말릭으로부터, [Ja'far bin Muhammad]로부터, [Bapaknya]로부터 나에게 전했다. 그가 말했다. \"알라의 메신저, 알라께서 그에게 축복과 평화를 주시기를, 의 딸인 [Fatimah]께서는 한때 하산, 후사인, 자이납, 움무 쿨숨의 머리카락을 달아보고, 그 머리카락의 무게와 같은 은을 자선으로 베푸셨다.\"",
+      "zh": "他从马立克、从[Ja'far bin Muhammad]、从[Bapaknya]向我传述，他说：“真主的使者，愿真主赐福他并赐他平安，的女儿[Fatimah]曾称哈桑、侯赛因、宰娜白和乌姆·库勒苏姆的头发，然后施舍与那头发重量相等的白银。”",
+      "fr": "Il m'a raconté de Malik, de [Ja'far bin Muhammad], de [Bapaknya] qui a dit ; « [Fatimah], fille du Messager d'Allah, qu'Allah le bénisse et lui accorde la paix, pesa un jour les cheveux de Hasan, Husain, Zainab et Ummu Kultsum, puis donna en aumône de l'argent égal au poids de ces cheveux. »",
+      "de": "Er erzählte mir von Malik von [Ja'far bin Muhammad] von [Bapaknya], der sagte: „[Fatimah], die Tochter des Gesandten Allahs, Allah segne ihn und schenke ihm Frieden, wog einmal das Haar von Hasan, Husain, Zainab und Ummu Kultsum und gab dann Silber im gleichen Gewicht wie jenes Haar als Almosen.“",
+      "it": "Mi ha raccontato da Malik da [Ja'far bin Muhammad] da [Bapaknya] il quale disse: \" [Fatimah], figlia del Messaggero di Allah, che Allah lo benedica e gli conceda la pace, una volta pesò i capelli di Hasan, Husain, Zainab e Ummu Kultsum, poi diede in elemosina argento pari al peso di quei capelli.\""
+    },
+    {
+      "number": 947,
+      "arab": "و حَدَّثَنِي عَنْ مَالِك عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ عَنْ مُحَمَّدِ بْنِ عَلِيِّ بْنِ الْحُسَيْنِ أَنَّهُ قَالَوَزَنَتْ فَاطِمَةُ بِنْتُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ شَعَرَ حَسَنٍ وَحُسَيْنٍ فَتَصَدَّقَتْ بِزِنَتِهِ فِضَّةً",
+      "id": "Telah menceritakan kepadaku dari Malik dari [Rabi'ah bin Abu Abdurrahman] dari [Muhammad bin Ali bin Al Husain] berkata; \" [Fatimah] puteri Rasulullah Shalla Allahu 'alaihi wa sallam menimbang rambut Hasan dan Husain, lalu ia bersedekah perak yang sama dengan berat timbangan rambut tersebut.\"",
+      "en": "He narrated to me from Malik from [Rabi'ah bin Abu Abdurrahman] from [Muhammad bin Ali bin Al Husain] who said; \" [Fatimah], daughter of the Messenger of Allah, may Allah bless him and grant him peace, weighed the hair of Hasan and Husain, then she gave silver in charity equal to the weight of that hair.\"",
+      "ja": "彼がマーリクから、[Rabi'ah bin Abu Abdurrahman] から、[Muhammad bin Ali bin Al Husain] から私に伝えた。彼は言った。「アッラーの使徒、アッラーが彼に祝福と平安を与えられますようにの娘である [Fatimah] は、ハサンとフサインの髪を量り、その髪の重さに等しい銀を施しとして与えた。」",
+      "ko": "그가 말릭으로부터, [Rabi'ah bin Abu Abdurrahman]로부터, [Muhammad bin Ali bin Al Husain]로부터 나에게 전했다. 그가 말했다. \"알라의 메신저, 알라께서 그에게 축복과 평화를 주시기를, 의 딸인 [Fatimah]께서는 하산과 후사인의 머리카락을 달아보고, 그 머리카락의 무게와 같은 은을 자선으로 베푸셨다.\"",
+      "zh": "他从马立克、从[Rabi'ah bin Abu Abdurrahman]、从[Muhammad bin Ali bin Al Husain]向我传述，他说：“真主的使者，愿真主赐福他并赐他平安，的女儿[Fatimah]称了哈桑和侯赛因的头发，然后施舍与那头发重量相等的白银。”",
+      "fr": "Il m'a raconté de Malik, de [Rabi'ah bin Abu Abdurrahman], de [Muhammad bin Ali bin Al Husain] qui a dit ; « [Fatimah], fille du Messager d'Allah, qu'Allah le bénisse et lui accorde la paix, pesa les cheveux de Hasan et Husain, puis elle donna en aumône de l'argent égal au poids de ces cheveux. »",
+      "de": "Er erzählte mir von Malik von [Rabi'ah bin Abu Abdurrahman] von [Muhammad bin Ali bin Al Husain], der sagte: „[Fatimah], die Tochter des Gesandten Allahs, Allah segne ihn und schenke ihm Frieden, wog das Haar von Hasan und Husain und gab dann Silber im gleichen Gewicht wie jenes Haar als Almosen.“",
+      "it": "Mi ha raccontato da Malik da [Rabi'ah bin Abu Abdurrahman] da [Muhammad bin Ali bin Al Husain] il quale disse: \" [Fatimah], figlia del Messaggero di Allah, che Allah lo benedica e gli conceda la pace, pesò i capelli di Hasan e Husain, poi diede in elemosina argento pari al peso di quei capelli.\""
+    },
+    {
+      "number": 948,
+      "arab": "حَدَّثَنِي يَحْيَى عَنْ مَالِك عَنْ نَافِعٍ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَلَمْ يَكُنْ يَسْأَلُهُ أَحَدٌ مِنْ أَهْلِهِ عَقِيقَةً إِلَّا أَعْطَاهُ إِيَّاهَا وَكَانَ يَعُقُّ عَنْ وَلَدِهِ بِشَاةٍ شَاةٍ عَنْ الذُّكُورِ وَالْإِنَاثِ",
+      "id": "Telah menceritakan kepadaku Yahya dari Malik dari [Nafi'] berkata, \"Tidak seorang pun dari keluarga Abdullah bin Umar meminta kambing untuk dijadikan aqiqah kecuali ia memberikannya. [Ibnu Umar] beraqiqah untuk anak-anaknya dengan seekor kambing; baik untuk anak laki-laki maupun anak perempuan.",
+      "en": "Yahya narrated to me from Malik from [Nafi'] who said, \"No one from the family of Abdullah bin Umar asked for a goat to be made into an aqiqah except that he gave it. [Ibnu Umar] performed aqiqah for his children with one goat; whether for a boy or a girl.",
+      "ja": "ヤフヤーがマーリクから、[Nafi'] から私に伝えた。彼は言った。「アブドッラー・ビン・ウマルの家族のうち、アキーカにするためにヤギを求めた者は、彼がそれを与えなかった者は一人もいなかった。[Ibnu Umar] は、男の子であれ女の子であれ、自分の子どもたちのためにヤギ一頭でアキーカを行った。",
+      "ko": "야흐야가 말릭으로부터, [Nafi']로부터 나에게 전했다. 그가 말했다. \"압둘라 빈 우마르의 가족 중 아끼까로 삼기 위해 염소를 요청한 사람은 그가 주지 않은 사람이 한 명도 없었다. [Ibnu Umar]께서는 남자아이든 여자아이든 자신의 자녀들을 위해 염소 한 마리로 아끼까를 행하셨다.",
+      "zh": "叶海亚从马立克、从[Nafi']向我传述，他说：“阿卜杜拉·本·欧麦尔的家人中，没有人要求一只羊做阿齐盖而他不给的。[Ibnu Umar]为他的孩子们各用一只羊行阿齐盖；无论是男孩还是女孩。",
+      "fr": "Yahya m'a raconté de Malik, de [Nafi'] qui a dit : « Personne de la famille de Abdullah bin Umar ne demanda une chèvre pour en faire une aqiqah sans qu'il la lui donne. [Ibnu Umar] faisait l'aqiqah pour ses enfants avec une chèvre ; que ce soit pour un garçon ou pour une fille.",
+      "de": "Yahya erzählte mir von Malik von [Nafi'], der sagte: „Niemand aus der Familie von Abdullah bin Umar bat um eine Ziege, um sie als Aqiqah zu verwenden, ohne dass er sie ihm gab. [Ibnu Umar] vollzog die Aqiqah für seine Kinder mit einer Ziege; sowohl für einen Jungen als auch für ein Mädchen.",
+      "it": "Yahya mi ha raccontato da Malik da [Nafi'] il quale disse: \"Nessuno della famiglia di Abdullah bin Umar chiese una capra da destinare all'aqiqah senza che egli gliela desse. [Ibnu Umar] compiva l'aqiqah per i suoi figli con una capra; sia per un maschio sia per una femmina."
+    },
+    {
+      "number": 949,
+      "arab": "و حَدَّثَنِي عَنْ مَالِك عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ التَّيْمِيِّ أَنَّهُ قَالَ سَمِعْتُ أَبِييَسْتَحِبُّ الْعَقِيقَةَ وَلَوْ بِعُصْفُورٍ",
+      "id": "Telah menceritakan kepadaku dari Malik dari [Rabi'ah bin Abu Abdurrahman] dari [Muhammad bin Ibrahim bin Al Harits At-Taimi] berkata; \"Aku mendengar [Bapakku] menganjurkan aqiqah walaupun dengan seekor burung.\"",
+      "en": "He narrated to me from Malik from [Rabi'ah bin Abu Abdurrahman] from [Muhammad bin Ibrahim bin Al Harits At-Taimi] who said; \"I heard [Bapakku] encouraging aqiqah even with a bird.\"",
+      "ja": "彼がマーリクから、[Rabi'ah bin Abu Abdurrahman] から、[Muhammad bin Ibrahim bin Al Harits At-Taimi] から私に伝えた。彼は言った。「私は [Bapakku] が、たとえ鳥一羽でもアキーカを勧めているのを聞いた。」",
+      "ko": "그가 말릭으로부터, [Rabi'ah bin Abu Abdurrahman]로부터, [Muhammad bin Ibrahim bin Al Harits At-Taimi]로부터 나에게 전했다. 그가 말했다. \"나는 [Bapakku]께서 새 한 마리로라도 아끼까를 권하시는 것을 들었다.\"",
+      "zh": "他从马立克、从[Rabi'ah bin Abu Abdurrahman]、从[Muhammad bin Ibrahim bin Al Harits At-Taimi]向我传述，他说：“我听见[Bapakku]提倡阿齐盖，哪怕用一只鸟。”",
+      "fr": "Il m'a raconté de Malik, de [Rabi'ah bin Abu Abdurrahman], de [Muhammad bin Ibrahim bin Al Harits At-Taimi] qui a dit ; « J'ai entendu [Bapakku] recommander l'aqiqah même avec un oiseau. »",
+      "de": "Er erzählte mir von Malik von [Rabi'ah bin Abu Abdurrahman] von [Muhammad bin Ibrahim bin Al Harits At-Taimi], der sagte: „Ich hörte [Bapakku] die Aqiqah empfehlen, selbst mit einem Vogel.“",
+      "it": "Mi ha raccontato da Malik da [Rabi'ah bin Abu Abdurrahman] da [Muhammad bin Ibrahim bin Al Harits At-Taimi] il quale disse: \"Ho sentito [Bapakku] raccomandare l'aqiqah anche con un uccello.\""
+    },
+    {
+      "number": 950,
+      "arab": "و حَدَّثَنِي عَنْ مَالِك عَنْ هِشَامِ بْنِ عُرْوَةَ أَنَّ أَبَاهُ عُرْوَةَ بْنَ الزُّبَيْرِكَانَ يَعُقُّ عَنْ بَنِيهِ الذُّكُورِ وَالْإِنَاثِ بِشَاةٍ شَاةٍ",
+      "id": "Telah menceritakan kepada kami dari Malik dari [Hisyam bin Urwah] bahwa bapaknya [Urwah bin Zubair] mengaqiqahi anak laki-laki dan perempuannya masing-masing dengan seekor kambing.\"",
+      "en": "He narrated to us from Malik from [Hisyam bin Urwah] that his father [Urwah bin Zubair] performed aqiqah for his boys and his girls, each with one goat.\"",
+      "ja": "彼がマーリクから、[Hisyam bin Urwah] から私たちに伝えた。彼の父である [Urwah bin Zubair] は、自分の男の子と女の子それぞれのために、ヤギ一頭ずつでアキーカを行った。」",
+      "ko": "그가 말릭으로부터, [Hisyam bin Urwah]로부터 우리에게 전했다. 그의 아버지인 [Urwah bin Zubair]께서는 자신의 아들들과 딸들 각각을 위해 염소 한 마리씩으로 아끼까를 행하셨다.\"",
+      "zh": "他从马立克、从[Hisyam bin Urwah]向我们传述，他的父亲[Urwah bin Zubair]为他的男孩和女孩每人各用一只羊行了阿齐盖。”",
+      "fr": "Il nous a raconté de Malik, de [Hisyam bin Urwah] que son père [Urwah bin Zubair] faisait l'aqiqah pour ses garçons et ses filles, chacun avec une chèvre. »",
+      "de": "Er erzählte uns von Malik von [Hisyam bin Urwah], dass sein Vater [Urwah bin Zubair] für seine Jungen und seine Mädchen jeweils mit einer Ziege die Aqiqah vollzog.\"",
+      "it": "Ci ha raccontato da Malik da [Hisyam bin Urwah] che suo padre [Urwah bin Zubair] compiva l'aqiqah per i suoi maschi e le sue femmine, ciascuno con una capra.\""
+    }
   ]
 }
