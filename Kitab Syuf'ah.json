@@ -1,15 +1,29 @@
 {
-    "kategori": "Kitab Syuf'ah",
+  "kategori": "Kitab Syuf'ah",
   "hadits": [
     {
-"number": 1203,
-"arab": "حَدَّثَنَا يَحْيَى عَنْ مَالِك عَنْ ابْنِ شِهَابٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ وَعَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَضَى بِالشُّفْعَةِ فِيمَا لَمْ يُقْسَمْ بَيْنَ الشُّرَكَاءِ فَإِذَا وَقَعَتْ الْحُدُودُ بَيْنَهُمْ فَلَا شُفْعَةَ فِيهِ",
-"id": "Telah menceritakan kepada kami dari Malik dari [Ibnu Syihab] dari [Sa'id bin Musayyab] dan dari [Abu Salamah bin Abdurrahman bin 'Auf] bahwa Rasulullah Shalla Allahu 'alaihi wa sallam memutuskan syuf'ah dari barang-barang yang belum dibagi di antara anggota persero, namun jika telah jelas batas-batasnya di antara mereka, maka tidak ada syuf'ah di dalamnya.\" "
-},
-{
-"number": 1204,
-"arab": "قَالَ يَحْيَى قَالَ مَالِك عَنْ مُحَمَّدِ بْنِ عُمَارَةَ عَنْ أَبِي بَكْرِ بْنِ حَزْمٍ أَنَّ عُثْمَانَ بْنَ عَفَّانَ قَالَإِذَا وَقَعَتْ الْحُدُودُ فِي الْأَرْضِ فَلَا شُفْعَةَ فِيهَا وَلَا شُفْعَةَ فِي بِئْرٍ وَلَا فِي فَحْلِ النَّخْلِقَالَ مَالِك وَعَلَى هَذَا الْأَمْرُ عِنْدَنَا",
-"id": "Yahya berkata Malik berkata; dari [Muhammad bin Umarah] dari [Abu Bakar bin Hazm] bahwa ['Utsman bin 'Affan] berkata; \"Jika telah di pasang batas-batas pada tanah, maka tidak ada syuf'ah. Tidak ada syuf'ah dalam sumur, begitu juga dalam pohon kurma.\" Malik berkata; \"Pendapat ini yang menjadi pendapat kami.\" "
-}
+      "number": 1203,
+      "arab": "حَدَّثَنَا يَحْيَى عَنْ مَالِك عَنْ ابْنِ شِهَابٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ وَعَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَضَى بِالشُّفْعَةِ فِيمَا لَمْ يُقْسَمْ بَيْنَ الشُّرَكَاءِ فَإِذَا وَقَعَتْ الْحُدُودُ بَيْنَهُمْ فَلَا شُفْعَةَ فِيهِ",
+      "id": "Telah menceritakan kepada kami dari Malik dari [Ibnu Syihab] dari [Sa'id bin Musayyab] dan dari [Abu Salamah bin Abdurrahman bin 'Auf] bahwa Rasulullah Shalla Allahu 'alaihi wa sallam memutuskan syuf'ah dari barang-barang yang belum dibagi di antara anggota persero, namun jika telah jelas batas-batasnya di antara mereka, maka tidak ada syuf'ah di dalamnya.\" ",
+      "en": "It was narrated to us from Malik from [Ibnu Syihab] from [Sa'id bin Musayyab] and from [Abu Salamah bin Abdurrahman bin 'Auf] that the Messenger of Allah, peace and blessings of Allah be upon him, decided the right of preemption (syuf'ah) for properties that had not yet been divided among partners, but if the boundaries had become clear among them, then there is no preemption in it.\"",
+      "ja": "マーリクから、[Ibnu Syihab]から、[Sa'id bin Musayyab]から、そして[Abu Salamah bin Abdurrahman bin 'Auf]から私たちに伝えられたところによると、アッラーの使徒、アッラーが彼に祝福と平安を与えられますように、は、まだパートナー間で分割されていないものについてのシュフア（先買権）を定めたが、彼らの間で境界が明確になった場合は、その中にはシュフアはない、とのことである。」",
+      "ko": "말리크로부터, [Ibnu Syihab]로부터, [Sa'id bin Musayyab]로부터, 그리고 [Abu Salamah bin Abdurrahman bin 'Auf]로부터 우리에게 전해진 바에 따르면, 알라의 사자, 알라께서 그에게 축복과 평화를 주시기를, 께서는 아직 동업자들 사이에 나누어지지 않은 것에 대해 슈프아(선매권)를 정하셨으나, 그들 사이에 경계가 분명해졌다면 그 안에는 슈프아가 없다고 하셨다.\"",
+      "zh": "据马立克传述，自[Ibnu Syihab]，自[Sa'id bin Musayyab]，又自[Abu Salamah bin Abdurrahman bin 'Auf]传给我们：真主的使者，愿真主赐他祝福与平安，判决尚未在合伙人之间分开的财物享有优先购买权（什法阿）；但如果他们之间的界限已经明确，那么其中就没有优先购买权。”",
+      "fr": "Il nous a été raconté d'après Malik, d'après [Ibnu Syihab], d'après [Sa'id bin Musayyab] et d'après [Abu Salamah bin Abdurrahman bin 'Auf] que le Messager d'Allah, que la paix et les bénédictions d'Allah soient sur lui, a décidé le droit de préemption (chouf'a) pour les biens qui n'avaient pas encore été partagés entre les associés, mais que si les limites étaient devenues claires entre eux, alors il n'y a pas de préemption en cela.\"",
+      "de": "Uns wurde von Malik, von [Ibnu Syihab], von [Sa'id bin Musayyab] und von [Abu Salamah bin Abdurrahman bin 'Auf] erzählt, dass der Gesandte Allahs, Allahs Friede und Segen seien auf ihm, das Vorkaufsrecht (Schuf'a) für Sachen entschied, die noch nicht unter den Teilhabern aufgeteilt worden waren; wenn jedoch die Grenzen zwischen ihnen klar geworden sind, dann gibt es darin kein Vorkaufsrecht.\"",
+      "it": "Ci è stato narrato da Malik, da [Ibnu Syihab], da [Sa'id bin Musayyab] e da [Abu Salamah bin Abdurrahman bin 'Auf] che il Messaggero di Allah, la pace e le benedizioni di Allah siano su di lui, stabilì il diritto di prelazione (shuf'a) per i beni non ancora divisi tra i soci, ma se i confini tra loro erano diventati chiari, allora non vi è prelazione in essi.\""
+    },
+    {
+      "number": 1204,
+      "arab": "قَالَ يَحْيَى قَالَ مَالِك عَنْ مُحَمَّدِ بْنِ عُمَارَةَ عَنْ أَبِي بَكْرِ بْنِ حَزْمٍ أَنَّ عُثْمَانَ بْنَ عَفَّانَ قَالَإِذَا وَقَعَتْ الْحُدُودُ فِي الْأَرْضِ فَلَا شُفْعَةَ فِيهَا وَلَا شُفْعَةَ فِي بِئْرٍ وَلَا فِي فَحْلِ النَّخْلِقَالَ مَالِك وَعَلَى هَذَا الْأَمْرُ عِنْدَنَا",
+      "id": "Yahya berkata Malik berkata; dari [Muhammad bin Umarah] dari [Abu Bakar bin Hazm] bahwa ['Utsman bin 'Affan] berkata; \"Jika telah di pasang batas-batas pada tanah, maka tidak ada syuf'ah. Tidak ada syuf'ah dalam sumur, begitu juga dalam pohon kurma.\" Malik berkata; \"Pendapat ini yang menjadi pendapat kami.\" ",
+      "en": "Yahya said: Malik said, from [Muhammad bin Umarah], from [Abu Bakar bin Hazm], that ['Utsman bin 'Affan] said: \"If boundaries have been set on land, then there is no preemption. There is no preemption in a well, and likewise in a date-palm tree.\" Malik said: \"This opinion is the opinion we hold.\"",
+      "ja": "ヤフヤーは言った：マーリクは言った；[Muhammad bin Umarah]から、[Abu Bakar bin Hazm]から、['Utsman bin 'Affan]が言ったと伝えられた：「土地に境界が設けられたなら、シュフアはない。井戸にもシュフアはなく、ナツメヤシの木についても同様である。」マーリクは言った：「この意見こそが、私たちの意見である。」",
+      "ko": "야흐야가 말했다: 말리크가 말했다; [Muhammad bin Umarah]로부터, [Abu Bakar bin Hazm]로부터, ['Utsman bin 'Affan]이 말했다고 전해졌다: \"토지에 경계가 설치되었다면, 슈프아는 없다. 우물에도 슈프아가 없고, 대추야자나무에 대해서도 마찬가지이다.\" 말리크가 말했다: \"이 견해가 바로 우리가 취하는 견해이다.\"",
+      "zh": "叶哈雅说：马立克说；据[Muhammad bin Umarah]传述，据[Abu Bakar bin Hazm]传述，['Utsman bin 'Affan]说：“如果土地上已经划定了界限，那么就没有优先购买权。井中没有优先购买权，枣椰树中也是如此。”马立克说：“这一观点就是我们所持的观点。”",
+      "fr": "Yahya a dit : Malik a dit ; d'après [Muhammad bin Umarah], d'après [Abu Bakar bin Hazm], que ['Utsman bin 'Affan] a dit : « Si des limites ont été fixées sur une terre, alors il n'y a pas de préemption. Il n'y a pas de préemption dans un puits, et il en est de même pour un palmier-dattier. » Malik a dit : « Cet avis est l'avis que nous suivons. »",
+      "de": "Yahya sagte: Malik sagte; von [Muhammad bin Umarah], von [Abu Bakar bin Hazm], dass ['Utsman bin 'Affan] sagte: \"Wenn auf einem Grundstück Grenzen gesetzt worden sind, dann gibt es kein Vorkaufsrecht. Es gibt kein Vorkaufsrecht in einem Brunnen, und ebenso nicht in einer Dattelpalme.\" Malik sagte: \"Diese Meinung ist die Meinung, die wir vertreten.\"",
+      "it": "Yahya disse: Malik disse; da [Muhammad bin Umarah], da [Abu Bakar bin Hazm], che ['Utsman bin 'Affan] disse: «Se sono stati posti dei confini su un terreno, allora non vi è prelazione. Non vi è prelazione in un pozzo, e lo stesso vale per una palma da datteri.» Malik disse: «Questa opinione è l'opinione che noi sosteniamo.»"
+    }
   ]
 }
