@@ -1,25 +1,53 @@
 {
     "kategori": "Kitab Sewa Tanah",
-  "hadits": [
-    {
-"number": 1199,
-"arab": "حَدَّثَنَا يَحْيَى عَنْ مَالِك عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ عَنْ حَنْظَلَةَ بْنِ قَيْسٍ الزُّرَقِيِّ عَنْ رَافِعِ بْنِ خَدِيجٍأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ كِرَاءِ الْمَزَارِعِقَالَ حَنْظَلَةُ فَسَأَلْتُ رَافِعَ بْنَ خَدِيجٍ بِالذَّهَبِ وَالْوَرِقِ فَقَالَ أَمَّا بِالذَّهَبِ وَالْوَرِقِ فَلَا بَأْسَ بِهِ",
-"id": "Telah menceritakan kepada kami Yahya dari Malik dari [Rabi'ah bin Abu Abdurrahman] dari [Hanzhalah bin Qais Az Zuraqi] dari [Rafi' bin Khadij] berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang sewa menyewa kebun.\" Hanzhalah berkata; \"Aku lalu bertanya kepada Rafi' bin Khadij jika disewakan dengan emas dan perak, maka dia menjawab; 'Adapun jika dengan emas dan perak tidaklah mengapa'.\""
-},
-{
-"number": 1200,
-"arab": "و حَدَّثَنِي مَالِك عَنْ ابْنِ شِهَابٍ أَنَّهُ قَالَ سَأَلْتُ سَعِيدَ بْنَ الْمُسَيَّبِعَنْ كِرَاءِ الْأَرْضِ بِالذَّهَبِ وَالْوَرِقِ فَقَالَ لَا بَأْسَ بِهِ",
-"id": "Telah menceritakan kepadaku Malik dari [Ibnu Syihab] berkata; \"Saya pernah bertanya kepada [Sa'id bin Musayyab] tentang sewa tanah menggunakan emas maupun perak, maka dia menjawab; 'Tidaklah mengapa'.\""
-},
-{
-"number": 1201,
-"arab": "و حَدَّثَنِي مَالِك عَنْ ابْنِ شِهَابٍ أَنَّهُ سَأَلَ سَالِمَ بْنَ عَبْدِ اللَّهِ بْنِ عُمَرَعَنْ كِرَاءِ الْمَزَارِعِ فَقَالَ لَا بَأْسَ بِهَا بِالذَّهَبِ وَالْوَرِقِ قَالَ ابْنُ شِهَابٍ فَقُلْتُ لَهُ أَرَأَيْتَ الْحَدِيثَ الَّذِي يُذْكَرُ عَنْ رَافِعِ بْنِ خَدِيجٍ فَقَالَ أَكْثَرَ رَافِعٌ وَلَوْ كَانَ لِي مَزْرَعَةٌ أَكْرَيْتُهَا",
-"id": "Telah menceritakan kepadaku Malik dari [Ibnu Syihab] Bahwasanya ia bertanya kepada [Salim bin Abdullah bin Umar] tentang sewa menyewa kebun, lalu dia menjawab; \"Tidak mengapa jika menggunakan emas maupun perak.\" Ibnu Syihab berkata; \"Saya bertanya; 'Bagaimana menurutmu dengan hadits yang disebutkan dari dari Rafi' bin Khudaij? ' Dia menjawab; 'Rafi' terlalu berlebihan. Jika saya memiliki kebun, niscaya akan saya sewakan'.\""
-},
-{
-"number": 1202,
-"arab": "و حَدَّثَنِي مَالِك عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِأَنَّهُ كَانَ يُكْرِي أَرْضَهُ بِالذَّهَبِ وَالْوَرِقِ",
-"id": "Telah menceritakan kepadaku Malik dari [Hisyam bin 'Urwah] dari [Bapaknya] Bahwasanya ia menyewakan tanahnya dengan menggunakan emas dan perak.\""
-}
-  ]
+    "hadits": [
+        {
+            "number": 1199,
+            "arab": "حَدَّثَنَا يَحْيَى عَنْ مَالِك عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ عَنْ حَنْظَلَةَ بْنِ قَيْسٍ الزُّرَقِيِّ عَنْ رَافِعِ بْنِ خَدِيجٍأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ كِرَاءِ الْمَزَارِعِقَالَ حَنْظَلَةُ فَسَأَلْتُ رَافِعَ بْنَ خَدِيجٍ بِالذَّهَبِ وَالْوَرِقِ فَقَالَ أَمَّا بِالذَّهَبِ وَالْوَرِقِ فَلَا بَأْسَ بِهِ",
+            "id": "Telah menceritakan kepada kami Yahya dari Malik dari [Rabi'ah bin Abu Abdurrahman] dari [Hanzhalah bin Qais Az Zuraqi] dari [Rafi' bin Khadij] berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang sewa menyewa kebun.\" Hanzhalah berkata; \"Aku lalu bertanya kepada Rafi' bin Khadij jika disewakan dengan emas dan perak, maka dia menjawab; 'Adapun jika dengan emas dan perak tidaklah mengapa'.\"",
+            "en": "Yahya narrated to us from Malik from [Rabi'ah bin Abu Abdurrahman] from [Hanzhalah bin Qais Az Zuraqi] from [Rafi' bin Khadij], who said, \"The Messenger of Allah, peace be upon him, forbade renting out farms.\" Hanzhalah said, \"I then asked Rafi' bin Khadij about renting for gold and silver, and he answered, 'As for gold and silver, there is no harm in it.'\"",
+            "ja": "ヤフヤーがマーリクから、[Rabi'ah bin Abu Abdurrahman]から、[Hanzhalah bin Qais Az Zuraqi]から、[Rafi' bin Khadij]から私たちに語った。彼は言った。「アッラーの使徒（彼に平安あれ）は、農園の賃貸を禁じられた。」ハンツァラは言った。「私はその後、ラーフィウ・ビン・ハディージに、金と銀で貸すことについて尋ねた。すると彼は答えた。『金と銀であれば、問題はない。』」",
+            "ko": "야흐야가 말리크로부터, [Rabi'ah bin Abu Abdurrahman]로부터, [Hanzhalah bin Qais Az Zuraqi]로부터, [Rafi' bin Khadij]로부터 우리에게 전했다. 그는 말했다. \"알라의 사도(그에게 평화가 있기를)께서 농장을 임대하는 것을 금지하셨다.\" 한잘라가 말했다. \"나는 그 후 라피우 빈 하디지에게 금과 은으로 임대하는 것에 대해 물었고, 그는 대답했다. '금과 은이라면, 아무런 문제가 없다.'\"",
+            "zh": "叶海亚从马立克，从[Rabi'ah bin Abu Abdurrahman]，从[Hanzhalah bin Qais Az Zuraqi]，从[Rafi' bin Khadij]向我们讲述，他说：“真主的使者（愿他平安）禁止出租农场。”汉宰莱说：“我随后问拉菲尔·本·哈迪杰，如果用金和银出租怎么样，他回答说：‘至于用金和银，那就没什么问题。’”",
+            "fr": "Yahya nous a raconté d'après Malik, d'après [Rabi'ah bin Abu Abdurrahman], d'après [Hanzhalah bin Qais Az Zuraqi], d'après [Rafi' bin Khadij], qui a dit : « Le Messager d'Allah, que la paix soit sur lui, a interdit la location des fermes. » Hanzhalah a dit : « J'ai ensuite demandé à Rafi' bin Khadij si on louait contre de l'or et de l'argent, et il a répondu : « Pour ce qui est de l'or et de l'argent, il n'y a aucun mal à cela. » »",
+            "de": "Yahya hat uns von Malik, von [Rabi'ah bin Abu Abdurrahman], von [Hanzhalah bin Qais Az Zuraqi], von [Rafi' bin Khadij] erzählt, der sagte: „Der Gesandte Allahs, Friede sei mit ihm, hat das Vermieten von Bauernhöfen verboten.“ Hanzhalah sagte: „Ich fragte dann Rafi' bin Khadij, ob man gegen Gold und Silber vermieten dürfe, und er antwortete: ‚Was Gold und Silber betrifft, so ist das unbedenklich.‘“",
+            "it": "Yahya ci ha narrato da Malik, da [Rabi'ah bin Abu Abdurrahman], da [Hanzhalah bin Qais Az Zuraqi], da [Rafi' bin Khadij], che disse: «Il Messaggero di Allah, pace su di lui, proibì di dare in affitto le fattorie.» Hanzhalah disse: «Chiesi poi a Rafi' bin Khadij se si potesse affittare in cambio di oro e argento, ed egli rispose: “Quanto all'oro e all'argento, non c'è nulla di male.”»"
+        },
+        {
+            "number": 1200,
+            "arab": "و حَدَّثَنِي مَالِك عَنْ ابْنِ شِهَابٍ أَنَّهُ قَالَ سَأَلْتُ سَعِيدَ بْنَ الْمُسَيَّبِعَنْ كِرَاءِ الْأَرْضِ بِالذَّهَبِ وَالْوَرِقِ فَقَالَ لَا بَأْسَ بِهِ",
+            "id": "Telah menceritakan kepadaku Malik dari [Ibnu Syihab] berkata; \"Saya pernah bertanya kepada [Sa'id bin Musayyab] tentang sewa tanah menggunakan emas maupun perak, maka dia menjawab; 'Tidaklah mengapa'.\"",
+            "en": "Malik narrated to me from [Ibnu Syihab], who said, \"I once asked [Sa'id bin Musayyab] about renting land for gold and silver, and he answered, 'There is no harm in it.'\"",
+            "ja": "マーリクが[Ibnu Syihab]から私に語った。彼は言った。「私はかつて[Sa'id bin Musayyab]に、金や銀で土地を借りることについて尋ねた。すると彼は答えた。『問題はない。』」",
+            "ko": "말리크가 [Ibnu Syihab]로부터 나에게 전했다. 그는 말했다. \"나는 한 번 [Sa'id bin Musayyab]에게 금이나 은으로 땅을 임대하는 것에 대해 물었고, 그는 대답했다. '아무런 문제가 없다.'\"",
+            "zh": "马立克从[Ibnu Syihab]向我讲述，他说：“我曾经问过[Sa'id bin Musayyab]用金或银租地的事情，他回答说：‘没什么问题。’”",
+            "fr": "Malik m'a raconté d'après [Ibnu Syihab], qui a dit : « J'ai un jour demandé à [Sa'id bin Musayyab] au sujet de la location d'une terre contre de l'or ou de l'argent, et il a répondu : “Il n'y a aucun mal à cela.” »",
+            "de": "Malik hat mir von [Ibnu Syihab] erzählt, der sagte: „Ich fragte einmal [Sa'id bin Musayyab] nach dem Mieten von Land gegen Gold oder Silber, und er antwortete: ‚Das ist unbedenklich.‘“",
+            "it": "Malik mi ha narrato da [Ibnu Syihab], che disse: «Una volta chiesi a [Sa'id bin Musayyab] dell'affitto di un terreno in cambio di oro o argento, ed egli rispose: “Non c'è nulla di male.”»"
+        },
+        {
+            "number": 1201,
+            "arab": "و حَدَّثَنِي مَالِك عَنْ ابْنِ شِهَابٍ أَنَّهُ سَأَلَ سَالِمَ بْنَ عَبْدِ اللَّهِ بْنِ عُمَرَعَنْ كِرَاءِ الْمَزَارِعِ فَقَالَ لَا بَأْسَ بِهَا بِالذَّهَبِ وَالْوَرِقِ قَالَ ابْنُ شِهَابٍ فَقُلْتُ لَهُ أَرَأَيْتَ الْحَدِيثَ الَّذِي يُذْكَرُ عَنْ رَافِعِ بْنِ خَدِيجٍ فَقَالَ أَكْثَرَ رَافِعٌ وَلَوْ كَانَ لِي مَزْرَعَةٌ أَكْرَيْتُهَا",
+            "id": "Telah menceritakan kepadaku Malik dari [Ibnu Syihab] Bahwasanya ia bertanya kepada [Salim bin Abdullah bin Umar] tentang sewa menyewa kebun, lalu dia menjawab; \"Tidak mengapa jika menggunakan emas maupun perak.\" Ibnu Syihab berkata; \"Saya bertanya; 'Bagaimana menurutmu dengan hadits yang disebutkan dari dari Rafi' bin Khudaij? ' Dia menjawab; 'Rafi' terlalu berlebihan. Jika saya memiliki kebun, niscaya akan saya sewakan'.\"",
+            "en": "Malik narrated to me from [Ibnu Syihab] that he asked [Salim bin Abdullah bin Umar] about renting out farms, and he answered, \"There is no harm in it if it is done for gold or silver.\" Ibnu Syihab said, \"I asked, 'What do you think about the hadith that is mentioned from Rafi' bin Khudaij?' He answered, 'Rafi' exaggerated. If I had a farm, I would certainly rent it out.'\"",
+            "ja": "マーリクが[Ibnu Syihab]から私に語った。彼は[Salim bin Abdullah bin Umar]に農園の賃貸について尋ねた。すると彼は答えた。「金や銀であれば、問題はない。」イブン・シハーブは言った。「私は尋ねた。『ラーフィウ・ビン・フダイジュから伝えられているハディースについて、どう思いますか。』彼は答えた。『ラーフィウは誇張しすぎた。もし私に農園があれば、きっとそれを貸すだろう。』」",
+            "ko": "말리크가 [Ibnu Syihab]로부터 나에게 전했다. 그는 [Salim bin Abdullah bin Umar]에게 농장을 임대하는 것에 대해 물었고, 그는 대답했다. \"금이나 은으로 한다면 아무런 문제가 없다.\" 이븐 시합이 말했다. \"나는 물었다. '라피우 빈 후다이지로부터 전해지는 하디스에 대해 어떻게 생각하십니까?' 그는 대답했다. '라피우는 지나치게 과장했다. 나에게 농장이 있다면, 나는 반드시 그것을 임대할 것이다.'\"",
+            "zh": "马立克从[Ibnu Syihab]向我讲述，他问过[Salim bin Abdullah bin Umar]关于出租农场的事，他回答说：“如果用金或银，那就没什么问题。”伊本·希哈布说：“我问道：‘你怎么看从拉菲尔·本·胡代杰那里传述的那段圣训？’他回答说：‘拉菲尔说得太过了。如果我有农场，我一定会把它租出去。’”",
+            "fr": "Malik m'a raconté d'après [Ibnu Syihab] qu'il avait demandé à [Salim bin Abdullah bin Umar] au sujet de la location des fermes, et celui-ci avait répondu : « Il n'y a aucun mal à cela si c'est contre de l'or ou de l'argent. » Ibnu Syihab a dit : « J'ai demandé : “Que penses-tu du hadith que l'on rapporte de Rafi' bin Khudaij ?” Il a répondu : “Rafi' a exagéré. Si j'avais une ferme, je la louerais certainement.” »",
+            "de": "Malik hat mir von [Ibnu Syihab] erzählt, dass dieser [Salim bin Abdullah bin Umar] nach dem Vermieten von Bauernhöfen fragte, und er antwortete: „Es ist unbedenklich, wenn es gegen Gold oder Silber geschieht.“ Ibnu Syihab sagte: „Ich fragte: ‚Was hältst du von dem Hadith, der von Rafi' bin Khudaij überliefert wird?‘ Er antwortete: ‚Rafi' hat übertrieben. Wenn ich einen Bauernhof hätte, würde ich ihn bestimmt vermieten.‘“",
+            "it": "Malik mi ha narrato da [Ibnu Syihab] che egli chiese a [Salim bin Abdullah bin Umar] dell'affitto delle fattorie, ed egli rispose: «Non c'è nulla di male se avviene in cambio di oro o argento.» Ibnu Syihab disse: «Chiesi: “Cosa ne pensi dell'hadith che si riporta da Rafi' bin Khudaij?” Egli rispose: “Rafi' ha esagerato. Se avessi una fattoria, la darei certamente in affitto.”»"
+        },
+        {
+            "number": 1202,
+            "arab": "و حَدَّثَنِي مَالِك عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِأَنَّهُ كَانَ يُكْرِي أَرْضَهُ بِالذَّهَبِ وَالْوَرِقِ",
+            "id": "Telah menceritakan kepadaku Malik dari [Hisyam bin 'Urwah] dari [Bapaknya] Bahwasanya ia menyewakan tanahnya dengan menggunakan emas dan perak.\"",
+            "en": "Malik narrated to me from [Hisyam bin 'Urwah] from [Bapaknya] that he used to rent out his land for gold and silver.",
+            "ja": "マーリクが[Hisyam bin 'Urwah]から、[Bapaknya]から私に語った。彼は自分の土地を金と銀で貸していた。",
+            "ko": "말리크가 [Hisyam bin 'Urwah]로부터, [Bapaknya]로부터 나에게 전했다. 그는 자신의 땅을 금과 은으로 임대하곤 했다.",
+            "zh": "马立克从[Hisyam bin 'Urwah]，从[Bapaknya]向我讲述，他曾经把自己的土地用金和银租出去。",
+            "fr": "Malik m'a raconté d'après [Hisyam bin 'Urwah], d'après [Bapaknya], qu'il louait sa terre contre de l'or et de l'argent.",
+            "de": "Malik hat mir von [Hisyam bin 'Urwah], von [Bapaknya] erzählt, dass dieser sein Land gegen Gold und Silber vermietete.",
+            "it": "Malik mi ha narrato da [Hisyam bin 'Urwah], da [Bapaknya], che egli dava in affitto la sua terra in cambio di oro e argento."
+        }
+    ]
 }
